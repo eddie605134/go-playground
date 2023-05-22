@@ -3,7 +3,7 @@
 
 ## 前置作業
 ---
-1. 安裝Go
+1. 安裝Go [安裝連結](https://go.dev/learn/)
 2. 調整vscode設定，加快編譯速度
 3. 用 `go mod init <your-module-name>` 建立go.mod 開始模組化
 ---
